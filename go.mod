@@ -1,5 +1,5 @@
 module github.com/tmcarey/steam-appticket-go
 
-go 1.30
+go 1.4
 
 require google.golang.org/protobuf v1.30.0 // indirect
